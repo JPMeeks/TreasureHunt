@@ -1,0 +1,20 @@
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\HW2.exe
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\HW2.pdb
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\obj\x86\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\Content\item_sprites.png
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\Content\player_sprites.png
+C:\Users\JPM\Documents\Programs\2155\HW2\HW2\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\Content\item_sprites.png
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\Content\player_sprites.png
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\HW2.exe
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\HW2.pdb
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\JPM\Documents\Programs\2155\HW2 - Meeks\HW2\HW2\obj\x86\Debug\HW2.csprojResolveAssemblyReference.cache
